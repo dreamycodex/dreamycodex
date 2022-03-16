@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sharlu - a UK-based web developer. 
+- 👀 I’m interested in tech, biking, mindfulness, and travel. 
+- 🌱 I’m currently learning Redux and Typescript.
+- 📫 Reach me on LinkedIn
