@@ -8,7 +8,6 @@ I am a career changer who found a new interest in coding. I learned to code duri
 
 *   🌍  I'm based in Glasgow, United Kingdom
 *   🖥️  See my portfolio at [coming soon](http://coming soon)
-*   ✉️  You can contact me at [dreuphoricme@gmail.com](mailto:dreuphoricme@gmail.com)
 *   🧠  Currently, I'm learning Tensorflow.js
 
 <a href="https://www.github.com/dreamycodex" target="_blank" rel="noreferrer"><img
