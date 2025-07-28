@@ -6,7 +6,7 @@ Web Developer | a tech enthusiast into biking, mindfulness and travel.
 
 I am a career changer who found a new interest in coding. I learned to code during the pandemic and have never stopped learning since. I had the chance to work on exciting products providing smart solutions for green energy consumers. 🌱
 
-*   🌍  I'm based in Glasgow, United Kingdom
+*   🌍  I'm based in Belfast, United Kingdom
 *   🧠  Currently, I'm learning Tensorflow.js
 
 <a href="https://www.github.com/dreamycodex" target="_blank" rel="noreferrer"><img
